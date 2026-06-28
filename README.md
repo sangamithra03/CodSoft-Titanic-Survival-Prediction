@@ -18,10 +18,8 @@ Predict whether a passenger survived the Titanic disaster using Machine Learning
 - Scikit-learn
 
 ### Accuracy
-79.89%
+- 79.89%
 
 ### Files
 - Titanic_Survival_Prediction.ipynb
-- titanic.csv
-
-**Status:** ✅ Completed
+- Titanic-Dataset.csv
